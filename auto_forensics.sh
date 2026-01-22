@@ -1,5 +1,5 @@
 #!/bin/bash
-#By Avishay Wietschner TMagen773639.s8 
+#By Avishay Eliad Wietschner  
 
 # ==============================================================================
 # WINDOWS FORENSIC AUTOMATION PROJECT
